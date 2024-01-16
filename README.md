@@ -1,2 +1,2 @@
-# Neuodrenaline_HRD
+# Neurodrenaline_HRD
 Repo for hierarchical modelling of HRD data from the Neurodrenaline Study
